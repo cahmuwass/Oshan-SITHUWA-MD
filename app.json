@@ -11,13 +11,7 @@
       "value": "SL OSKA"
   },
   "ALIVE_MESSAGE": {
-    "description": " 
-*_HELLO👋_*
-*ɪ ᴀᴍ ꜱɪᴛʜᴜᴡᴀ ᴍᴅ👸*
-
-*🫨ᴏᴡɴᴇʀ :-* _ᴏꜱʜᴀɴ👾_
-
-*🤖ʜᴏᴡ ᴄᴀɴ ʜᴇʟᴩ yᴏᴜ*",
+    "description": " HELLO,I am sithuwa md developer by oshan",
      "required" :false
     },
     "AUTO_STATUS_SAVER": {
