@@ -11,18 +11,13 @@
       "value": "SL OSKA"
   },
   "ALIVE_MESSAGE": {
-    "description": " ★★◢◣❥❥━──➸➽
-❖ ──── ❖
-❖─♡️
+    "description": " 
 *_HELLO👋_*
 *ɪ ᴀᴍ ꜱɪᴛʜᴜᴡᴀ ᴍᴅ👸*
 
 *🫨ᴏᴡɴᴇʀ :-* _ᴏꜱʜᴀɴ👾_
 
-*🤖ʜᴏᴡ ᴄᴀɴ ʜᴇʟᴩ yᴏᴜ*
-ꗄ♡️─❖
-❖ ──── ❖
-★★◥◤❥❥━──➸➽",
+*🤖ʜᴏᴡ ᴄᴀɴ ʜᴇʟᴩ yᴏᴜ*",
      "required" :false
     },
     "AUTO_STATUS_SAVER": {
