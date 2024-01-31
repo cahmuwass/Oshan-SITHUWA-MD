@@ -8,10 +8,21 @@
 "env": {
   "OWNER_NAME": {
   "description": "BOT OWNER NAME", 
-      "value": "Sithum Kalhara"
+      "value": "SL OSKA"
   },
   "ALIVE_MESSAGE": {
-    "description": " SET YOUR ALIVE MESSAGE FOR THE BOT",
+    "description": " ★★◢◣❥❥━──➸➽
+❖ ──── ❖
+❖─♡️
+*_HELLO👋_*
+*ɪ ᴀᴍ ꜱɪᴛʜᴜᴡᴀ ᴍᴅ👸*
+
+*🫨ᴏᴡɴᴇʀ :-* _ᴏꜱʜᴀɴ👾_
+
+*🤖ʜᴏᴡ ᴄᴀɴ ʜᴇʟᴩ yᴏᴜ*
+ꗄ♡️─❖
+❖ ──── ❖
+★★◥◤❥❥━──➸➽",
      "required" :false
     },
     "AUTO_STATUS_SAVER": {
@@ -33,7 +44,7 @@
     },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://telegra.ph/file/15b1dd8aeaa47888d75d7.jpg"
+     "value": "https://telegra.ph/file/1bcf0037805a55aac8faf.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -70,7 +81,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "94761516805"
+       "value": "94768830907"
   },
    "SESSION_ID": {
     "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to SITHUWA-MD Github Repo U can find the Scanner Option"
@@ -90,7 +101,7 @@
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-         "value": "public"
+         "value": "private"
   },
       "AUTO_REACTION": {
     "description": "Reacts emoji to all commands.",
@@ -103,7 +114,7 @@
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
-    "value": "SITHUWA-MD"
+    "value": "oska-md"
   },
   "heroku": {
     "description": "Weather it is on heroku or not", 
